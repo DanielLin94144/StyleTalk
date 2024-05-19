@@ -4,7 +4,7 @@
 * Varied emotions, speaking speeds, speaking volumes
 * Human-annotated filtering
 * Read more details in [paper](https://arxiv.org/abs/2402.12786) (ACL 2024 main conference paper)
-<img width="671" alt="image" src="https://github.com/DanielLin94144/StyleTalk/assets/50494525/4416a3fe-7c8c-4bab-8b4e-77685b7afcbe">
+<img width="500" alt="image" src="https://github.com/DanielLin94144/StyleTalk/assets/50494525/4416a3fe-7c8c-4bab-8b4e-77685b7afcbe">
 
 
 ## Introduction
@@ -14,9 +14,10 @@ In spoken dialogue, even if two current turns are the same sentence, their respo
 * Annotation file: ```train.csv``` and ```eval.csv```
 * Audio files: [Google drive](https://drive.google.com/file/d/1y8L5BATyr8go0L-9DfIKtMek51koSlhp/view?usp=sharing)
 
-## Model 
+## Spoken-LLM Framework
 TBA
-<img width="711" alt="image" src="https://github.com/DanielLin94144/StyleTalk/assets/50494525/bf15631a-d60d-4878-bc28-4bfa8470026f">
+
+<img width="500" alt="image" src="https://github.com/DanielLin94144/StyleTalk/assets/50494525/bf15631a-d60d-4878-bc28-4bfa8470026f">
 
 ## Citation
 If you use the dataset or find the paper useful for your research, please cite the paper: 
