@@ -1,5 +1,5 @@
 # StyleTalk Dataset 🗣
-
+[More updates coming soon]
 * Speech-to-speech conversation with speaking styles
 * Varied emotions, speaking speeds, speaking volumes
 * Human-annotated filtering
